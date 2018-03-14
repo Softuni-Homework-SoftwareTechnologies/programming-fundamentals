@@ -1,7 +1,10 @@
 # programming-fundamentals
 Programming fundamentals Repository
-
-###Beverage Labels
+###Problem 1
+Debit Card Number
+Write a program, which receives 4 integers on the console and prints them in 4-digit debit card format. See the examples below for the appropriate formatting.
+###Problem 4
+Beverage Labels
 Write a program, which reads a food product name, volume, energy content per 100ml and sugar content per 100ml. Calculate the energy and sugar content for the given volume and print them on the console in the following format:
 
 Name -- as per the input
