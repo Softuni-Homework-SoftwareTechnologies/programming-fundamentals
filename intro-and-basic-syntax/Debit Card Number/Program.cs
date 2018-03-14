@@ -10,10 +10,10 @@ namespace Debit_Card_Number
             var num1 = int.Parse(Console.ReadLine());
             var num2 = int.Parse(Console.ReadLine());
             var num3 = int.Parse(Console.ReadLine());
-            var num4 = int.Parse(Console.ReadLine());
+            var number4 = int.Parse(Console.ReadLine());
 
             // Print result
-            Console.WriteLine("{0:0000} {1:0000} {2:0000} {3:0000}", num1, num2, num3, num4);
+            Console.WriteLine("{0:0000} {1:0000} {2:0000} {3:0000}", num1, num2, num3, number4);
         }
     }
 }
