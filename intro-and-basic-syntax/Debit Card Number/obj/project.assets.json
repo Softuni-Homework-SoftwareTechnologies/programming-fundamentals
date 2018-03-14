@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YB\\source\\repos\\SoftUni Teamwork Homework\\Debit Card Number\\Debit Card Number.csproj",
+      "projectUniqueName": "C:\\Users\\YB\\Desktop\\asdasda\\programming-fundamentals\\intro-and-basic-syntax\\Debit Card Number\\Debit Card Number.csproj",
       "projectName": "Debit Card Number",
-      "projectPath": "C:\\Users\\YB\\source\\repos\\SoftUni Teamwork Homework\\Debit Card Number\\Debit Card Number.csproj",
+      "projectPath": "C:\\Users\\YB\\Desktop\\asdasda\\programming-fundamentals\\intro-and-basic-syntax\\Debit Card Number\\Debit Card Number.csproj",
       "packagesPath": "C:\\Users\\YB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YB\\source\\repos\\SoftUni Teamwork Homework\\Debit Card Number\\obj\\",
+      "outputPath": "C:\\Users\\YB\\Desktop\\asdasda\\programming-fundamentals\\intro-and-basic-syntax\\Debit Card Number\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
