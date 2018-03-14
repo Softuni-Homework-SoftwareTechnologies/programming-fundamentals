@@ -1,4 +1,5 @@
-﻿using System;
+﻿// CONFIRMED from kpatyh
+using System;
 
 class RectangleArea
 {
