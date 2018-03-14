@@ -16,3 +16,9 @@ Sugar content -- real number, suffixed by "g" (e.g. "30g")
 Character Stats
 
 Write a program, which displays information about a video game character. You will receive their name, current health, maximum health, current energy and maximum energy on separate lines. The current values will always be valid (equal or lower than their respective max values). Print them in the format as per the examples.
+
+### Problem 3
+Miles to Kilometers  
+
+Write a program, which converts miles to kilometers. Format the output to the 2nd decimal place. 
+Input 60 - Output - 96.56
