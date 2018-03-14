@@ -14,11 +14,11 @@ namespace Beverage_Labels
 
             // Calculations
             double totalEnergy = energyPer100ml / 100.0 * volume;
-            double totalSugar = sugarPer100ml * volume / 100.0;
+            double totalSugars = sugarPer100ml * volume / 100.0;
 
             // Print result
             Console.WriteLine("{0}ml {1}:", volume, product);
-            Console.WriteLine("{0}kcal, {1}g sugars", totalEnergy, totalSugar);
+            Console.WriteLine("{0}kcal, {1}g sugars", totalEnergy, totalSugars);
         }
     }
 }
